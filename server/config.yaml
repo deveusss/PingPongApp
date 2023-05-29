@@ -1,0 +1,3 @@
+throttling_time: 1.5
+host: localhost
+port: 8000
